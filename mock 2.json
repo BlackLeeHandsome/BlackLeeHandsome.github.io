@@ -1,0 +1,16 @@
+{
+    "code": "000000",
+    "content": {
+        "backPic": "",
+        "frontPic": "",
+        "hasOcr": false,
+        "hasTwoElement": true,
+        "idCardMask": "4211***********541",
+        "idCardNumber": "421127199412291541",
+        "name": "洪芬"
+    },
+    "errors": [],
+    "message": "",
+    "metadata": {},
+    "status": "success"
+}

@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "RWZGTU6QMZ.com.anjulian.ios",
+        "paths": [
+          "/tolink/*"
+          ]
+      },
+{
+        "appID": "RWZGTU6QMZ.com.anjulian.ios.mgt",
+        "paths": [
+          "/mgt/*"
+          ]
+      }
+    ]
+  }
+}
